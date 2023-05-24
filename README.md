@@ -1,2 +1,2 @@
-# OASIS-_INFOBYTES-_INTERNSHIP
+# OASIS_INFOBYTES_INTERNSHIP
 Oasis_infobytes_internship
